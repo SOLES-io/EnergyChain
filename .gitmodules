@@ -1,0 +1,4 @@
+[submodule "basecoin"]
+	path = basecoin
+	url = https://github.com/tendermint/basecoin.git
+	branch = master

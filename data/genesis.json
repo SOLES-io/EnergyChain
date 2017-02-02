@@ -1,0 +1,13 @@
+[
+  "base/chainID", "eecoin_chain_id",
+  "eecoin/add", "not_sure_how_to_generate_this_randomstring_yet",
+  "base/account", {
+    "pub_key": [1, "not_sure_how_to_generate_this_pubkey_yet"],
+    "coins": [
+      {
+        "denom": "blank",
+        "amount": 5
+      }
+    ]
+  }
+]
