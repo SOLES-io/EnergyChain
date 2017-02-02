@@ -1,0 +1,16 @@
+{
+        "address": "customize-for-your-validating-node-see-readme",
+        "last_height": 0,
+        "last_round": 0,
+        "last_signature": null,
+        "last_signbytes": "",
+        "last_step": 0,
+        "priv_key": [
+                1,
+                "customize-for-your-validating-node-see-readme"
+        ],
+        "pub_key": [
+                1,
+                "customize-for-your-validating-node-see-readme"
+        ]
+}
