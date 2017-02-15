@@ -54,7 +54,7 @@ func (eep EECoinPlugin) SetOption(store types.KVStore, key string, value string)
 }
 
 // This allows
-func (eep MintPlugin) RunTx(store types.KVStore, ctx types.CallContext, txBytes []byte) (res abci.Result) {
+func (eep EECoinPlugin) RunTx(store types.KVStore, ctx types.CallContext, txBytes []byte) (res abci.Result) {
 	// parse transaction
 	var tx EECoinTx
 	err := wire.ReadBinaryBytes(txBytes, &tx)
